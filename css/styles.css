@@ -3,7 +3,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-    overflow: hidden; /* Hide scrollbars */
+    /* overflow: hidden; /* Hide scrollbars */ 
 }
 
 h1 {
@@ -52,7 +52,7 @@ a:hover {
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
-  top:-100px;
+  /* top:-100px; */
 }
 
 .middle-container {
@@ -154,10 +154,10 @@ a:hover {
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-   position: fixed;
+   /* position: fixed; */
   left:350px;
   margin: auto;
-  top: 250px;
+  /* top: 250px; */
 }
 
 /* Hide the images by default */
